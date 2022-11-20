@@ -7,9 +7,9 @@ for i in Harfler:
     if i=="A":
         sayaçA=sayaçA+1
     if i=="G":
-        intG=intG+1
+        sayaçG=sayaçG+1
     if i=="T":
-        intT=intT+1
+        sayaçT=sayaçT+1
     if i=="C":
-        intC=intC+1
+        sayaçC=sayaçC+1
 print("A sayısı="+str(sayaçA)+" adet","|","G sayısı="+str(sayaçG)+" adet","|","T sayısı="+str(sayaçT)+" adet","|","C sayısı="+str(sayaçC)+" adet")            
